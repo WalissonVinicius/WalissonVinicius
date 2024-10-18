@@ -6,7 +6,7 @@ PT-BR
 
  •👋🏻 Olá, me chamo WaLisson 
 <p> •🟩 Sou brasileiro e tenho 21 anos</p>
- <p>•👩🏻‍💻 Estou estudando Ánalise e DEsenvolvimento na Fasipe</p>
+ <p>•👩🏻‍💻 Estou estudando Ánalise e Desenvolvimento na Fasipe</p>
  <p>•💡 Disposta a estar constantemente aprendendo tecnologias novas</p>
 
 EN

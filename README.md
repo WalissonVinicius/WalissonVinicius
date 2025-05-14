@@ -4,15 +4,15 @@
 
 PT-BR
 
- •👋🏻 Olá, me chamo WaLisson 
-<p> •🟩 Sou brasileiro e tenho 21 anos</p>
+ •👋🏻 Olá, me chamo Walisson 
+<p> •🟩 Sou brasileiro e tenho 22 anos</p>
  <p>•👩🏻‍💻 Estou estudando Ánalise e Desenvolvimento na Fasipe</p>
  <p>•💡 Disposta a estar constantemente aprendendo tecnologias novas</p>
 
 EN
 
  •👋🏻 Hello, my name is Walisson
-<p> •🟩 I'm Brazilian and I'm 21 years old</p>
+<p> •🟩 I'm Brazilian and I'm 22 years old</p>
  <p>•👩🏻‍💻 I'm studying Analysis and Development at Fasipe</p>
  <p>•💡 Willing to be constantly learning new technologies</p>
 

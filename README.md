@@ -1,41 +1,49 @@
-### Oi, muito prazer! Eu sou o Walisson VInicius 👋
+<!-- Hero -->
+<h1 align="center">Oi, eu sou o <strong>Walisson Vinicius</strong> 👋</h1>
+<p align="center">
+  Desenvolvedor <b>Full Stack</b> — React/Next.js • TypeScript • Node.js • Supabase<br/>
+  UI rápida, acessível e pronta pra produção
+</p>
 
+<p align="center">
+  <a href="https://walisson.dev"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-walisson.dev-000?logo=vercel&logoColor=white"/></a>
+  <a href="mailto:walissonvinicius10654@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contato-EA4335?logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/walisson-vinicius-952abb205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Walisson%20Vinicius-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/WalissonVinicius?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/WalissonVinicius?style=social"/></a>
+</p>
 
+---
 
-PT-BR
+### 🔧 Stack favorita
+<p align="center">
+  <img height="500" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vite,tailwind,supabase,postgres,git,vercel,vue&perline=" alt="Stack icons"/>
+</p>
 
- •👋🏻 Olá, me chamo Walisson 
-<p> •🟩 Sou brasileiro e tenho 22 anos</p>
- <p>•👩🏻‍💻 Estou estudando Ánalise e Desenvolvimento na Fasipe</p>
- <p>•💡 Disposta a estar constantemente aprendendo tecnologias novas</p>
+---
 
-EN
+### 🚀 Projetos em destaque
+- **CashPilot** — Finanças pessoais. <a href="https://cashpilot.walisson.dev">Live</a> • <a href="https://github.com/WalissonVinicius/cashpilot">Código</a>  
+- **VidaXP** — Hábitos gamificados (Android via Capacitor). <a href="https://vidaxp.walisson.dev">Live</a> • <a href="https://github.com/WalissonVinicius/VidaXP">Código</a>  
+- **ReadUp** — Leitor de light novel (Next.js). <a href="https://readup.walisson.dev">Live</a> • <a href="https://github.com/WalissonVinicius/readup">Código</a>  
+- **Games Links** — Catálogo de jogos. <a href="https://jogos.walisson.dev">Live</a> • <a href="https://github.com/WalissonVinicius/games-links">Código</a>
 
- •👋🏻 Hello, my name is Walisson
-<p> •🟩 I'm Brazilian and I'm 22 years old</p>
- <p>•👩🏻‍💻 I'm studying Analysis and Development at Fasipe</p>
- <p>•💡 Willing to be constantly learning new technologies</p>
+---
 
-    
+### 📊 Um pouco de números
+<div align="center">
 
-##
+  <!-- Linguagens (repos ou commits) -->
+  <img height="180" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WalissonVinicius&theme=github_dark"/>
+  <img height="180" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WalissonVinicius&theme=github_dark"/>
 
-  <h3>Linguagens & Tecnologias</h3>
-   <div style="display: inline_block"><br>
-    <img align="center" alt="Walisson-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Walisson-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Walisson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Walisson-Bootstrap" height="40" width="45" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Walisson-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img align="center" alt="Walisson-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Walisson-Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Walisson-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Walisson-Vue" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img align="center" alt="Walisson-git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <!-- Detalhes do perfil -->
+  <img width="100%" alt="Detalhes do Perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WalissonVinicius&theme=github_dark"/>
+</div>
 
- <div>
-   <h3>Contato</h3>
-   <a href = "mailto:walissonvinicius10654@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/walisson-vinicius-952abb205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+---
+
+<p align="center">
+  Feito com ☕ • <a href="https://walisson.dev">walisson.dev</a>
+</p>
+
 

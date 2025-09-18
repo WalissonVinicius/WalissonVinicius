@@ -26,6 +26,7 @@
 - **VidaXP** — Hábitos gamificados. <a href="https://vidaxp.walisson.dev">Live</a> • <a href="https://github.com/WalissonVinicius/VidaXP">Código</a>  
 - **ReadUp** — Leitor de light novel. <a href="https://readup.walisson.dev">Live</a> • <a href="https://github.com/WalissonVinicius/readup">Código</a>  
 - **Games Links** — Catálogo de jogos. <a href="https://jogos.walisson.dev">Live</a> • <a href="https://github.com/WalissonVinicius/games-links">Código</a>
+- **Portfolio** — Portfolio moderno. <a href="https://walisson.dev">Live</a> • <a href="https://github.com/WalissonVinicius/portfolio-walisson">Código</a>
 
 ---
 

@@ -24,50 +24,55 @@
 ### 🚀 Projetos em destaque
 
 <table>
-    <tr>
-    <td><b>🏢 CNPJfy</b><br/><sub>Empresas via CNPJ</sub></td>
-    <td>
+  <tr>
+    <td align="center">
+      <b>🏢 CNPJfy</b><br/>
+      <sub>Empresas via CNPJ</sub><br/>
+      <img src="https://raw.githubusercontent.com/WalissonVinicius/.github/main/cnpjfy/preview-background.png" width="300"/><br/>
       <a href="https://cnpjfy.walisson.dev/"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       <a href="https://github.com/WalissonVinicius/cnpjfy"><img src="https://img.shields.io/badge/Código-333?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
-  </tr>
-  <tr>
-    <td><b>💰 CashPilot</b><br/><sub>Finanças pessoais</sub></td>
-    <td>
+    <td align="center">
+      <b>💰 CashPilot</b><br/>
+      <sub>Finanças pessoais</sub><br/>
+      <img src="https://raw.githubusercontent.com/WalissonVinicius/.github/main/cashpilot/home-preview.png" width="300"/><br/>
       <a href="https://cashpilot.walisson.dev"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       <a href="https://github.com/WalissonVinicius/cashpilot"><img src="https://img.shields.io/badge/Código-333?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
-    <td><b>🎮 VidaXP</b><br/><sub>Hábitos gamificados</sub></td>
-    <td>
+    <td align="center">
+      <b>🎮 VidaXP</b><br/>
+      <sub>Hábitos gamificados</sub><br/>
+      <img src="https://raw.githubusercontent.com/WalissonVinicius/.github/main/vidaxp/home-preview.png" width="300"/><br/>
       <a href="https://vidaxp.walisson.dev"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       <a href="https://github.com/WalissonVinicius/VidaXP"><img src="https://img.shields.io/badge/Código-333?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
-  </tr>
-  <tr>
-    <td><b>📖 ReadUp</b><br/><sub>Leitor de light novel</sub></td>
-    <td>
+    <td align="center">
+      <b>📖 ReadUp</b><br/>
+      <sub>Leitor de light novel</sub><br/>
+      <img src="https://raw.githubusercontent.com/WalissonVinicius/.github/main/readup/home-preview.png" width="300"/><br/>
       <a href="https://readup.walisson.dev"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       <a href="https://github.com/WalissonVinicius/readup"><img src="https://img.shields.io/badge/Código-333?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
-    <td><b>🕹 Games Links</b><br/><sub>Catálogo de jogos</sub></td>
-    <td>
+    <td align="center">
+      <b>🕹 Games Links</b><br/>
+      <sub>Catálogo de jogos</sub><br/>
+      <img src="https://raw.githubusercontent.com/WalissonVinicius/.github/main/gamelinks/home-preview.png" width="300"/><br/>
       <a href="https://jogos.walisson.dev"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       <a href="https://github.com/WalissonVinicius/games-links"><img src="https://img.shields.io/badge/Código-333?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
-  </tr>
-  <tr>
-    <td><b>🌐 Portfolio</b><br/><sub>Portfolio moderno</sub></td>
-    <td>
+    <td align="center">
+      <b>🌐 Portfolio</b><br/>
+      <sub>Portfolio moderno</sub><br/>
+      <img src="https://raw.githubusercontent.com/WalissonVinicius/.github/main/portfolio/home-preview.png" width="300"/><br/>
       <a href="https://walisson.dev"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       <a href="https://github.com/WalissonVinicius/portfolio-walisson"><img src="https://img.shields.io/badge/Código-333?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📚 Sobre mim

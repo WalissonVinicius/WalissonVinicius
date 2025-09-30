@@ -1,5 +1,5 @@
 <!-- Hero -->
-<h1 align="center">👋 Oi, eu sou o <strong>Walisson Vinicius</strong></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"> Oi, eu sou o <strong>Walisson Vinicius</strong></h1>
 <p align="center">
   🚀 Desenvolvedor <b>Full Stack</b> — React/Next.js • TypeScript • Node.js • Supabase<br/>
   Criando aplicações modernas, rápidas e acessíveis
@@ -99,3 +99,5 @@ Minha missão é **construir aplicações escaláveis, acessíveis e com foco na
 <p align="center">
   Feito com ☕ e muito código • <a href="https://walisson.dev">walisson.dev</a>
 </p>
+
+

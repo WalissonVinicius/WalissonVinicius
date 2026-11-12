@@ -1,8 +1,21 @@
 <!-- Hero -->
-<h1 align="center">Oi, eu sou o <strong>Walisson Vinicius</strong></h1>
 <p align="center">
-  Tech Lead · <b>Full Stack</b> &amp; <b>AI Engineer</b> na Simplex<br/>
-  IA generativa em produção: agentes no WhatsApp, automações com n8n e aplicações web com React, Next.js e Supabase
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:7a57db&height=150&section=header" alt="" width="100%"/>
+</p>
+
+<h1 align="center">
+  Oi, eu sou o Walisson Vinicius
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="36" height="36"/>
+</h1>
+
+<p align="center">
+  <a href="https://github.com/WalissonVinicius">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Tech+Lead+%C2%B7+Full+Stack+%26+AI+Engineer;Agentes+de+IA+no+WhatsApp+em+produ%C3%A7%C3%A3o;Automa%C3%A7%C3%B5es+com+n8n%2C+RAG+e+LLMs;Do+primeiro+commit+ao+produto+no+ar" alt="Tech Lead, Full Stack e AI Engineer"/>
+  </a>
+</p>
+
+<p align="center">
+  Tech Lead na Simplex. IA generativa em produção, com React, Next.js e Supabase.
 </p>
 
 <p align="center">
@@ -15,19 +28,6 @@
 
 ---
 
-### IA e automação
-
-**[Chatbot multiagente para WhatsApp com n8n](https://github.com/WalissonVinicius/chatbot-multiagente-n8n)** &nbsp;
-[![e2e](https://github.com/WalissonVinicius/chatbot-multiagente-n8n/actions/workflows/e2e.yml/badge.svg)](https://github.com/WalissonVinicius/chatbot-multiagente-n8n/actions/workflows/e2e.yml)
-
-Triagem com IA, agentes por setor com FAQ no Postgres, transcrição de áudio com Whisper, debounce e idempotência no Redis e transferência para humano com resumo. Sobe com um `docker compose` e tem teste de ponta a ponta rodando no GitHub Actions.
-
-<a href="https://github.com/WalissonVinicius/chatbot-multiagente-n8n"><img src="https://raw.githubusercontent.com/WalissonVinicius/chatbot-multiagente-n8n/main/docs/workflow.png" alt="Workflow do chatbot no n8n" width="100%"/></a>
-
-- **[Biblioteca de prompts](https://prompt.walisson.dev)**: os prompts que uso no Claude Code, na ordem de uso e com o que fez diferença em cada um.
-- **[Como funciona um chatbot por dentro](https://walisson.dev/#ia)**: simulação de uma conversa no WhatsApp com cada etapa do fluxo acendendo.
-
----
 
 ### Stack
 <p align="center">
@@ -78,6 +78,20 @@ Produtos que construí e mantenho. O código é fechado, então os links levam p
     </td>
   </tr>
 </table>
+
+---
+
+### IA e automação
+
+**[Chatbot multiagente para WhatsApp com n8n](https://github.com/WalissonVinicius/chatbot-multiagente-n8n)** &nbsp;
+[![e2e](https://github.com/WalissonVinicius/chatbot-multiagente-n8n/actions/workflows/e2e.yml/badge.svg)](https://github.com/WalissonVinicius/chatbot-multiagente-n8n/actions/workflows/e2e.yml)
+
+Triagem com IA, agentes por setor com FAQ no Postgres, transcrição de áudio com Whisper, debounce e idempotência no Redis e transferência para humano com resumo. Sobe com um `docker compose` e tem teste de ponta a ponta rodando no GitHub Actions.
+
+<a href="https://github.com/WalissonVinicius/chatbot-multiagente-n8n"><img src="https://raw.githubusercontent.com/WalissonVinicius/chatbot-multiagente-n8n/main/docs/workflow.png" alt="Workflow do chatbot no n8n" width="100%"/></a>
+
+- **[Biblioteca de prompts](https://prompt.walisson.dev)**: os prompts que uso no Claude Code, na ordem de uso e com o que fez diferença em cada um.
+- **[Como funciona um chatbot por dentro](https://walisson.dev/#ia)**: simulação de uma conversa no WhatsApp com cada etapa do fluxo acendendo.
 
 ---
 

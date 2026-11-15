@@ -1,7 +1,4 @@
 <!-- Hero -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:7a57db&height=150&section=header" alt="" width="100%"/>
-</p>
 
 <h1 align="center">
   Oi, eu sou o Walisson Vinicius

@@ -1,0 +1,17 @@
+name: Codorna Card
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/codorna-card.yml
+permissions:
+  contents: write
+jobs:
+  codorna-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: GabrielKoglin/codorna-card@v1
+        with:
+          private-contributions: true

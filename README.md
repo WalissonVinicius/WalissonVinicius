@@ -1,5 +1,5 @@
 <!-- Hero -->
-
+![Codorna Card](codorna-card.svg)
 <h1 align="center">
   Oi, eu sou o Walisson Vinicius
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="36" height="36"/>
